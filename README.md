@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating an uncommon error related to array indexing within a foreach loop.  The script uses $#array to determine the upper bound for the loop iterator, leading to potential issues. The solution shows a safer method to iterate through the array, preventing the error.
